@@ -1,0 +1,1 @@
+worker: python 42bot.py
